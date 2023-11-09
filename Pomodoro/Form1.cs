@@ -57,24 +57,24 @@ namespace Pomodoro
                 switch (config.qualEstagioE) 
                 {
                     case 0:
-                        string textoBotao = contaVez % config.longBreakInterval == 0 ? "LONG BREAK" : "BREAK";
+                        string textoBotao = contaVez % config.longBreakInterval == 0 ? "BREAK" : "LONG BREAK";
                         ResetTimer(textoBotao);
                         atualizaContaVez();
+                        panel1.BackColor = contaVez % config.longBreakInterval == 0 ? Color.SteelBlue : Color.DarkSeaGreen;
                         MessageBox.Show("Tempo esgotado!");
                         config.qualEstagioE = contaVez % config.longBreakInterval == 0 ? 2 : 1;
-                        panel1.BackColor = contaVez % config.longBreakInterval == 0 ? Color.SteelBlue : Color.DarkSeaGreen;
                         break;
                     case 1:
-                        panel1.BackColor = Color.LightCoral;
                         ResetTimer(metroButton2.Text);
-                        MessageBox.Show("Tempo Esgotado!");
+                        panel1.BackColor = Color.LightCoral;
                         config.qualEstagioE = 0;
+                        MessageBox.Show("Tempo Esgotado!");
                         break;
                     case 2:
-                        panel1.BackColor = Color.LightCoral;
                         ResetTimer(metroButton2.Text);
-                        MessageBox.Show("Tempo Esgotado!");
+                        panel1.BackColor = Color.LightCoral;
                         config.qualEstagioE = 0;
+                        MessageBox.Show("Tempo Esgotado!");
                         break;
                 }
             }

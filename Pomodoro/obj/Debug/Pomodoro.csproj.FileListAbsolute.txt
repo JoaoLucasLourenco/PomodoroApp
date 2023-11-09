@@ -13,3 +13,18 @@ C:\Users\Joao\Documents\GitHub\Atex\Nova pasta\Pomodoro\Pomodoro\obj\Debug\Pomod
 C:\Users\Joao\Documents\GitHub\Atex\Nova pasta\Pomodoro\Pomodoro\obj\Debug\Pomodoro.exe
 C:\Users\Joao\Documents\GitHub\Atex\Nova pasta\Pomodoro\Pomodoro\obj\Debug\Pomodoro.pdb
 C:\Users\Joao\Documents\GitHub\Atex\Nova pasta\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Properties.FrmConfig.resources
+C:\Users\Joao\Documents\GitHub\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe.config
+C:\Users\Joao\Documents\GitHub\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe
+C:\Users\Joao\Documents\GitHub\Pomodoro\Pomodoro\bin\Debug\Pomodoro.pdb
+C:\Users\Joao\Documents\GitHub\Pomodoro\Pomodoro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Joao\Documents\GitHub\Pomodoro\Pomodoro\bin\Debug\MetroFramework.dll
+C:\Users\Joao\Documents\GitHub\Pomodoro\Pomodoro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Joao\Documents\GitHub\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.AssemblyReference.cache
+C:\Users\Joao\Documents\GitHub\Pomodoro\Pomodoro\obj\Debug\Pomodoro.FrmPrincipal.resources
+C:\Users\Joao\Documents\GitHub\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Properties.FrmConfig.resources
+C:\Users\Joao\Documents\GitHub\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Properties.Resources.resources
+C:\Users\Joao\Documents\GitHub\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.GenerateResource.cache
+C:\Users\Joao\Documents\GitHub\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.CoreCompileInputs.cache
+C:\Users\Joao\Documents\GitHub\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.CopyComplete
+C:\Users\Joao\Documents\GitHub\Pomodoro\Pomodoro\obj\Debug\Pomodoro.exe
+C:\Users\Joao\Documents\GitHub\Pomodoro\Pomodoro\obj\Debug\Pomodoro.pdb
